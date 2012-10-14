@@ -22,7 +22,7 @@ session_start();
 	================================================== -->
 	<div class="hero-unit">
 	    <h1><img src="/img/amp_main_logo_v2.png" alt=""></h1> 
-	    <p class="lead"><b>RealISE UWB</b> is a tool for students to support each other by sharing what they know about their campus and its surrounding communities.</p>	   
+	    <p class="lead"><b>RealISE</b> is a tool for students to support each other by sharing what they know about their campus and its surrounding communities.</p>	   
 	</div>
 
 		<div class="tabbable"> 
