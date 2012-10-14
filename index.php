@@ -21,7 +21,7 @@ session_start();
 	<!-- Masthead
 	================================================== -->
 	<div class="hero-unit">
-	    <h1><img src="/img/amp_main_logo_v2.png" alt=""></h1> 
+	    <h1><img src="/img/realise_main_logo.png" alt=""></h1> 
 	    <p class="lead"><b>RealISE</b> is a tool for students to support each other by sharing what they know about their campus and its surrounding communities.</p>	   
 	</div>
 
