@@ -3,10 +3,15 @@
 	<!-- Footer
       ================================================== -->
     <footer class="footer">
-    	<div class="alert alert-error">
-		<p class="lead">Found a problem? Please let us know by emailing <a href="mailto:support@amplifyuwb.com" >support@amplifyuwb.com</a>.</p>
-		</div>
-        <p>&copy; 2012 Amplify</p>
+    
+    	&copy;&nbsp&nbsp2012 Real<b>ISE UWB</b>
+    		&nbsp&nbsp||&nbsp&nbsp
+    	<a href="about.php">About the developers</a>
+    		&nbsp&nbsp||&nbsp&nbsp
+    	<a href="orgs.php">Partners</a>    
+    		&nbsp&nbsp||&nbsp&nbsp
+    	<a href="privacypolicy.php">Privacy Policy</a>   
+       
       </footer>
 	</footer>
       
