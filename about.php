@@ -1,4 +1,3 @@
-<!-- Regular about page -->
 <?
 include("inc/settings.inc.php");
 session_start()
@@ -7,7 +6,7 @@ session_start()
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>About Us</title>
+    <title>About the Developers</title>
     <? require_once("$base/inc/header.inc.php"); ?>  
   </head>
 
@@ -21,9 +20,9 @@ session_start()
 	<!-- Masthead
 	================================================== -->
 	<header class="jumbotron subhead page-header" id="overview">
-		<h1>About us</h1>
-		<p class="lead">AmplifyUWB was built by students, for students.</p> 
-		<p class="lead well"><b>Our goal:</b><br>To create a centralized place where you can find out anything about your university. Good or bad, it all ends up on Amplify. Come here to see what others are saying about the things on your mind.</p>
+		<h1>About the Developers</h1>
+		<p class="lead">RealiseUWB was built by students, for students.</p> 
+		<p class="lead well"><b>Our goal:</b><br>To create a centralized place for you to be able to figure out what organizations you would like to volunteer for.</p>
 		</header>
 
 
@@ -34,14 +33,14 @@ session_start()
 	 <ul class="thumbnails example-sites">
 		 	<li class="span2">
 		   	   <a class="thumbnail" href="http://www.linkedin.com/pub/drew-stone/9/394/242" target="_blank">
-		        <img src="userdata/photos/drewstone.jpg">
+		        <img src="img/drewstone.jpg">
 		      </a>
 		    </li>
 		    <li class="span8">
 			    <div class="page-header">
 			      <h2>Drew Stone <small><a class="btn btn-primary pull-right" href="http://www.linkedin.com/pub/drew-stone/9/394/242"  target="_blank">Get connected!</a></small></h2>
 			    </div> 
-		 	  <p class="span6">Drew Stone began Amplify to harness and leverage the knowledge of students in pursuit of their educations. After developing the idea with the support of Community Based Learning and Research Fellow Ashley Hamilton, Drew enlisted two UW Bothell CSS students, Finn Herzfeld and Josh Brunner to help develop the Amplify site.</p>
+		 	  <p class="span6">Drew Stone began Realise to harness and leverage the knowledge of students in pursuit of their educations. After developing the idea with the support of Community Based Learning and Research Fellow Ashley Hamilton, Drew enlisted two UW Bothell CSS students, Finn Herzfeld and Josh Brunner to help develop the Realise site.</p>
 		
 		      </li>
 	      </ul>
@@ -53,7 +52,7 @@ session_start()
 	 <ul class="thumbnails example-sites">
 	 	<li class="span2">
 	   	  <a class="thumbnail" href="https://about.me/joshbrunner" target="_blank">
-	        <img src="userdata/photos/joshbrunner.jpg" >
+	        <img src="img/joshbrunner.jpg" >
 	      </a>
 	    </li>
 	    <li class="span8">
