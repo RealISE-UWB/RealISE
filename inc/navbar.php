@@ -1,5 +1,4 @@
-<!-- REGULAR Navbar
-    ================================================== -->
+
 <?
 require_once("$base/inc/userfunctions.php");
 if(array_key_exists('user', $_SESSION)) {profile($_SESSION['user']);}
@@ -22,12 +21,12 @@ if(array_key_exists('user', $_SESSION)) {profile($_SESSION['user']);}
           <!--<a class="brand" href="/"><img src="/img/AmplifyLogo_b3_small.png" alt=""></a> -->
         
         
-        <a class="brand" href="/index.php">Amplify<b>UWB</b></a>
+        <a class="brand" href="/index.php">Realise<b>UWB</b></a>
           <div class="nav-collapse">
             <ul class="nav">
             
               <li class="<? if($_SERVER['SCRIPT_NAME'] == "/feed.php") {echo "active";} ?>">
-                <a href="/feed">the Feed</a>
+                <a href="/feed">Feed</a>
               </li>
              
              <!-- I feel like this isn't nessessary in the navbar, talk to me if you think otherwise
